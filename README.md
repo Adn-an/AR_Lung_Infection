@@ -9,5 +9,3 @@ In the present work, we propose an approach that allows the user to visualize an
 
 ![](https://github.com/user-attachments/assets/a94d5676-173b-4804-bbd0-b0820e85da0c)
 Graphical abstract: Visualisation of lung infection by exploiting a CNN based attention map
-
-<img width="628" alt="InfectionModel" src="https://github.com/user-attachments/assets/a94d5676-173b-4804-bbd0-b0820e85da0c" />
